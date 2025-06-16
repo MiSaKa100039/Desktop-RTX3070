@@ -447,7 +447,13 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Resistor",
+      "BuckConvert",
+      "MOSFET_Channel-N",
+      "Capacitor",
+      "PWR_symbol"
+    ]
   },
   "meta": {
     "filename": "Power-main.kicad_pro",
