@@ -452,7 +452,8 @@
       "BuckConvert",
       "MOSFET_Channel-N",
       "Capacitor",
-      "PWR_symbol"
+      "PWR_symbol",
+      "Inductor"
     ]
   },
   "meta": {
