@@ -453,7 +453,8 @@
       "MOSFET_Channel-N",
       "Capacitor",
       "PWR_symbol",
-      "Inductor"
+      "Inductor",
+      "Diode_Symbol"
     ]
   },
   "meta": {
