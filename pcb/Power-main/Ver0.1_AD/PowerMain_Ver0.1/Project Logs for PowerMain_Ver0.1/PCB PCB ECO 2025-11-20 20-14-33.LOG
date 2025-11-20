@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=NetC20_1 Pin=Q1-2
+Removed Pin From Net: NetName=VBUS Pin=Q1-3
+Removed Pin From Net: NetName=NetC19_1 Pin=Q2-2
+Removed Pin From Net: NetName=VBUS Pin=Q2-3
+Removed Pin From Net: NetName=NetC20_1 Pin=Q3-3
+Removed Pin From Net: NetName=NetC19_1 Pin=Q4-3
+Change Component Footprint: Designator=Q1 Old Footprint=TOLL-8 New Footprint=DFN8_5*6
+Change Component Footprint: Designator=Q2 Old Footprint=TOLL-8 New Footprint=DFN8_5*6
+Change Component Footprint: Designator=Q3 Old Footprint=TOLL-8 New Footprint=DFN8_5*6
+Change Component Footprint: Designator=Q4 Old Footprint=TOLL-8 New Footprint=DFN8_5*6
+Change Component Comment : Designator=Q1 Old Comment=10T02BH New Comment=Nmos_DFN8_5*6
+Change Component Comment : Designator=Q2 Old Comment=10T02BH New Comment=Nmos_DFN8_5*6
+Change Component Comment : Designator=Q3 Old Comment=10T02BH New Comment=Nmos_DFN8_5*6
+Change Component Comment : Designator=Q4 Old Comment=10T02BH New Comment=Nmos_DFN8_5*6
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "TOLL-8"; UniqueID = "\MYWTTAMX" ("\MYWTTAMX")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "场效应管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "描述"; Value = "P沟道 30V/4.2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "TOLL-8"; UniqueID = "\VWZCRDXR" ("\VWZCRDXR")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "场效应管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "描述"; Value = "P沟道 30V/4.2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "TOLL-8"; UniqueID = "\FQTPGUIO" ("\FQTPGUIO")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "场效应管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "描述"; Value = "P沟道 30V/4.2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "TOLL-8"; UniqueID = "\EEAILQTU" ("\EEAILQTU")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "场效应管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "描述"; Value = "P沟道 30V/4.2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Added Pin To Net: NetName=NetC19_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC19_1 Pin=Q1-2
+Added Pin To Net: NetName=NetC19_1 Pin=Q1-3
+Added Pin To Net: NetName=VBUS Pin=Q1-5
+Added Pin To Net: NetName=VBUS Pin=Q1-5
+Added Pin To Net: NetName=VBUS Pin=Q1-5
+Added Pin To Net: NetName=VBUS Pin=Q1-5
+Added Pin To Net: NetName=VBUS Pin=Q1-5
+Added Pin To Net: NetName=NetC20_1 Pin=Q2-1
+Added Pin To Net: NetName=NetC20_1 Pin=Q2-2
+Added Pin To Net: NetName=NetC20_1 Pin=Q2-3
+Added Pin To Net: NetName=VBUS Pin=Q2-5
+Added Pin To Net: NetName=VBUS Pin=Q2-5
+Added Pin To Net: NetName=VBUS Pin=Q2-5
+Added Pin To Net: NetName=VBUS Pin=Q2-5
+Added Pin To Net: NetName=VBUS Pin=Q2-5
+Added Pin To Net: NetName=PGND Pin=Q3-1
+Added Pin To Net: NetName=PGND Pin=Q3-3
+Added Pin To Net: NetName=NetC19_1 Pin=Q3-5
+Added Pin To Net: NetName=NetC19_1 Pin=Q3-5
+Added Pin To Net: NetName=NetC19_1 Pin=Q3-5
+Added Pin To Net: NetName=NetC19_1 Pin=Q3-5
+Added Pin To Net: NetName=NetC19_1 Pin=Q3-5
+Added Pin To Net: NetName=PGND Pin=Q4-1
+Added Pin To Net: NetName=PGND Pin=Q4-3
+Added Pin To Net: NetName=NetC20_1 Pin=Q4-5
+Added Pin To Net: NetName=NetC20_1 Pin=Q4-5
+Added Pin To Net: NetName=NetC20_1 Pin=Q4-5
+Added Pin To Net: NetName=NetC20_1 Pin=Q4-5
+Added Pin To Net: NetName=NetC20_1 Pin=Q4-5
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=R2-1
+Added Pin To Net: NetName=NetQ1_4 Pin=R4-1
+Added Net: Name=NetQ1_4
+Added Pin To Net: NetName=NetQ2_4 Pin=Q2-4
+Added Pin To Net: NetName=NetQ2_4 Pin=R1-1
+Added Pin To Net: NetName=NetQ2_4 Pin=R3-1
+Added Net: Name=NetQ2_4
+Added Pin To Net: NetName=NetQ3_4 Pin=Q3-4
+Added Pin To Net: NetName=NetQ3_4 Pin=R14-1
+Added Pin To Net: NetName=NetQ3_4 Pin=R20-1
+Added Net: Name=NetQ3_4
+Added Pin To Net: NetName=NetQ4_4 Pin=Q4-4
+Added Pin To Net: NetName=NetQ4_4 Pin=R13-1
+Added Pin To Net: NetName=NetQ4_4 Pin=R15-1
+Added Net: Name=NetQ4_4
