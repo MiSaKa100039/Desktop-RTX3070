@@ -1,0 +1,10 @@
+Added Component: Designator=J3(AMASS_XT30PW(2+2)-M.G.B)
+Added Pin To Net: NetName=VOUT12V Pin=J3-1
+Added Pin To Net: NetName=PGND Pin=J3-2
+Added Pin To Net: NetName=VOUT12V-Standby Pin=J3-S1
+Added Pin To Net: NetName=ENABLE Pin=J3-S2
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-10
+Add Pin To Net: Unknown Pin: Pin U4-11
+Added Member To Class: ClassName=Sheet Member=Component J3 XT30PW(2+2)-M.G.B

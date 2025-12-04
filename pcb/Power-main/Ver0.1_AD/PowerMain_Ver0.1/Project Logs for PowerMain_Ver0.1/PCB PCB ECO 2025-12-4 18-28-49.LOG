@@ -1,0 +1,92 @@
+Added Component: Designator=C60(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C61(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C62(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C63(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C64(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C65(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C66(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C67(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C68(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C69(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C70(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=C60-1
+Added Pin To Net: NetName=VOUT12V Pin=C60-2
+Added Pin To Net: NetName=PGND Pin=C61-1
+Added Pin To Net: NetName=VOUT12V Pin=C61-2
+Added Pin To Net: NetName=PGND Pin=C62-1
+Added Pin To Net: NetName=VOUT12V Pin=C62-2
+Added Pin To Net: NetName=PGND Pin=C63-1
+Added Pin To Net: NetName=VOUT12V Pin=C63-2
+Added Pin To Net: NetName=PGND Pin=C64-1
+Added Pin To Net: NetName=VOUT12V Pin=C64-2
+Added Pin To Net: NetName=PGND Pin=C65-1
+Added Pin To Net: NetName=VOUT12V Pin=C65-2
+Added Pin To Net: NetName=PGND Pin=C66-1
+Added Pin To Net: NetName=VOUT12V Pin=C66-2
+Added Pin To Net: NetName=PGND Pin=C67-1
+Added Pin To Net: NetName=VOUT12V Pin=C67-2
+Added Pin To Net: NetName=PGND Pin=C68-1
+Added Pin To Net: NetName=VOUT12V Pin=C68-2
+Added Pin To Net: NetName=PGND Pin=C69-1
+Added Pin To Net: NetName=VOUT12V Pin=C69-2
+Added Pin To Net: NetName=PGND Pin=C70-1
+Added Pin To Net: NetName=VOUT12V Pin=C70-2
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-10
+Add Pin To Net: Unknown Pin: Pin U4-11
+Added Member To Class: ClassName=Sheet Member=Component C60 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C61 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C62 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C63 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C64 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C65 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C66 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C67 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C68 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C69 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C70 100nF 50V

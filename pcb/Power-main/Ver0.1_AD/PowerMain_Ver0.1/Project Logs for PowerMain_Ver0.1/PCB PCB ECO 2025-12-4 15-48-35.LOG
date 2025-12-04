@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R5 Old Footprint=R3920 New Footprint=R 2512_L
+Change Component Footprint: Designator=R6 Old Footprint=R3920 New Footprint=R 2512_L
+Change Component Footprint: Designator=R29 Old Footprint=R3920 New Footprint=R 2512_L
+Change Component Footprint: Designator=R30 Old Footprint=R3920 New Footprint=R 2512_L
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-10
+Add Pin To Net: Unknown Pin: Pin U4-11
