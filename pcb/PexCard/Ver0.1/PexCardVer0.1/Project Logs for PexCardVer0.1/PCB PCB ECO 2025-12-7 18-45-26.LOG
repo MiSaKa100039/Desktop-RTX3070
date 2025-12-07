@@ -1,0 +1,46 @@
+Added Component: Designator=JP?(CONN-SMD_20P-P0.50_I-PEX_20455-020E-02)
+Add component (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(CONN-SMD_20P-P0.50_I-PEX_20455-020E-02)
+Add component (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(CONN-SMD_20P-P0.50_I-PEX_20455-020E-02)
+Add component (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(CONN-SMD_20P-P0.50_I-PEX_20455-020E-02)
+Add component (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet Member=Component C? 100nF/0603
+Added Member To Class: ClassName=Sheet Member=Component C? 100nF/0603
+Added Member To Class: ClassName=Sheet Member=Component C? 100nF/0603
+Added Member To Class: ClassName=Sheet Member=Component C? 100nF/0603
+Added Member To Class: ClassName=Sheet Member=Component C? 100nF/0603
+Added Member To Class: ClassName=Sheet Member=Component C? 100nF/0603
+Added Member To Class: ClassName=Sheet Member=Component C? 100nF/0603
+Added Member To Class: ClassName=Sheet Member=Component J? Pcie Gen4 x4
+Added Member To Class: ClassName=Sheet Member=Component J? Pcie Gen4 x4
+Added Member To Class: ClassName=Sheet Member=Component J? Pcie Gen4 x4
+Added Member To Class: ClassName=Sheet Member=Component J? Pcie Gen4 x16
+Added Member To Class: ClassName=Sheet Member=Component JP? FPC1.0-20P
+Added Member To Class: ClassName=Sheet Member=Component JP? FPC1.0-20P
+Added Member To Class: ClassName=Sheet Member=Component JP? FPC1.0-20P
+Added Member To Class: ClassName=Sheet Member=Component JP? FPC1.0-20P
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/43R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/43R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/43R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/27R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/27R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/43R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/27R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/27R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/27R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/27R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/27R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/43R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/43R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/43R
+Added Member To Class: ClassName=Sheet Member=Component R? 0402/27R
