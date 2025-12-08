@@ -1,0 +1,185 @@
+Removed Pin From Net: NetName=REFCLK_N Pin=JP?-17
+Removed Pin From Net: NetName=REFCLK_P Pin=JP?-18
+Change Net Name : Old Net Name=PERST# New Net Name=NVME_PERST#
+Change Net Name : Old Net Name=RX0_N New Net Name=NVME_RX0_N
+Change Net Name : Old Net Name=RX0_P New Net Name=NVME_RX0_P
+Change Net Name : Old Net Name=RX1_N New Net Name=NVME_RX1_N
+Change Net Name : Old Net Name=RX1_P New Net Name=NVME_RX1_P
+Change Net Name : Old Net Name=RX2_N New Net Name=NVME_RX2_N
+Change Net Name : Old Net Name=RX2_P New Net Name=NVME_RX2_P
+Change Net Name : Old Net Name=RX3_N New Net Name=NVME_RX3_N
+Change Net Name : Old Net Name=RX3_P New Net Name=NVME_RX3_P
+Change Net Name : Old Net Name=TX0_N New Net Name=NVME_TX0_N
+Change Net Name : Old Net Name=TX0_P New Net Name=NVME_TX0_P
+Change Net Name : Old Net Name=TX1_N New Net Name=NVME_TX1_N
+Change Net Name : Old Net Name=TX1_P New Net Name=NVME_TX1_P
+Change Net Name : Old Net Name=TX2_N New Net Name=NVME_TX2_N
+Change Net Name : Old Net Name=TX2_P New Net Name=NVME_TX2_P
+Change Net Name : Old Net Name=TX3_N New Net Name=NVME_TX3_N
+Change Net Name : Old Net Name=TX3_P New Net Name=NVME_TX3_P
+Change Net Name : Old Net Name=WAKE# New Net Name=NVME_WAKE#
+Added Pin To Net: NetName=NVME_REFCLK_N Pin=JP?-17
+Added Net: Name=NVME_REFCLK_N
+Added Pin To Net: NetName=NVME_REFCLK_P Pin=JP?-18
+Added Net: Name=NVME_REFCLK_P
+Added Pin To Net: NetName=RX0_N Pin=J2-A17
+Added Net: Name=RX0_N
+Added Pin To Net: NetName=RX0_P Pin=J2-A16
+Added Net: Name=RX0_P
+Added Pin To Net: NetName=RX1_N Pin=J2-A22
+Added Net: Name=RX1_N
+Added Pin To Net: NetName=RX1_P Pin=J2-A21
+Added Net: Name=RX1_P
+Added Pin To Net: NetName=RX2_N Pin=J2-A26
+Added Net: Name=RX2_N
+Added Pin To Net: NetName=RX2_P Pin=J2-A25
+Added Net: Name=RX2_P
+Added Pin To Net: NetName=RX3_N Pin=J2-A30
+Added Net: Name=RX3_N
+Added Pin To Net: NetName=RX3_P Pin=J2-A29
+Added Net: Name=RX3_P
+Added Pin To Net: NetName=RX4_N Pin=J2-A36
+Added Net: Name=RX4_N
+Added Pin To Net: NetName=RX4_P Pin=J2-A35
+Added Net: Name=RX4_P
+Added Pin To Net: NetName=RX5_N Pin=J2-A40
+Added Net: Name=RX5_N
+Added Pin To Net: NetName=RX5_P Pin=J2-A39
+Added Net: Name=RX5_P
+Added Pin To Net: NetName=RX6_N Pin=J2-A44
+Added Net: Name=RX6_N
+Added Pin To Net: NetName=RX6_P Pin=J2-A43
+Added Net: Name=RX6_P
+Added Pin To Net: NetName=RX7_N Pin=J2-A48
+Added Net: Name=RX7_N
+Added Pin To Net: NetName=RX7_P Pin=J2-A47
+Added Net: Name=RX7_P
+Added Pin To Net: NetName=RX8_N Pin=J2-A53
+Added Net: Name=RX8_N
+Added Pin To Net: NetName=RX8_P Pin=J2-A52
+Added Net: Name=RX8_P
+Added Pin To Net: NetName=RX9_N Pin=J2-A57
+Added Net: Name=RX9_N
+Added Pin To Net: NetName=RX9_P Pin=J2-A56
+Added Net: Name=RX9_P
+Added Pin To Net: NetName=RX10_N Pin=J2-A61
+Added Net: Name=RX10_N
+Added Pin To Net: NetName=RX10_P Pin=J2-A60
+Added Net: Name=RX10_P
+Added Pin To Net: NetName=RX11_N Pin=J2-A65
+Added Net: Name=RX11_N
+Added Pin To Net: NetName=RX11_P Pin=J2-A64
+Added Net: Name=RX11_P
+Added Pin To Net: NetName=RX12_N Pin=J2-A69
+Added Net: Name=RX12_N
+Added Pin To Net: NetName=RX12_P Pin=J2-A68
+Added Net: Name=RX12_P
+Added Pin To Net: NetName=RX13_N Pin=J2-A73
+Added Net: Name=RX13_N
+Added Pin To Net: NetName=RX13_P Pin=J2-A72
+Added Net: Name=RX13_P
+Added Pin To Net: NetName=RX14_N Pin=J2-A77
+Added Net: Name=RX14_N
+Added Pin To Net: NetName=RX14_P Pin=J2-A76
+Added Net: Name=RX14_P
+Added Pin To Net: NetName=RX15_N Pin=J2-A81
+Added Net: Name=RX15_N
+Added Pin To Net: NetName=RX15_P Pin=J2-A80
+Added Net: Name=RX15_P
+Added Pin To Net: NetName=TX0_N Pin=J2-B15
+Added Net: Name=TX0_N
+Added Pin To Net: NetName=TX0_P Pin=J2-B14
+Added Net: Name=TX0_P
+Added Pin To Net: NetName=TX1_N Pin=J2-B20
+Added Net: Name=TX1_N
+Added Pin To Net: NetName=TX1_P Pin=J2-B19
+Added Net: Name=TX1_P
+Added Pin To Net: NetName=TX2_N Pin=J2-B24
+Added Net: Name=TX2_N
+Added Pin To Net: NetName=TX2_P Pin=J2-B23
+Added Net: Name=TX2_P
+Added Pin To Net: NetName=TX3_N Pin=J2-B28
+Added Net: Name=TX3_N
+Added Pin To Net: NetName=TX3_P Pin=J2-B27
+Added Net: Name=TX3_P
+Added Pin To Net: NetName=TX4_N Pin=J2-B34
+Added Net: Name=TX4_N
+Added Pin To Net: NetName=TX4_P Pin=J2-B33
+Added Net: Name=TX4_P
+Added Pin To Net: NetName=TX5_N Pin=J2-B38
+Added Net: Name=TX5_N
+Added Pin To Net: NetName=TX5_P Pin=J2-B37
+Added Net: Name=TX5_P
+Added Pin To Net: NetName=TX6_N Pin=J2-B42
+Added Net: Name=TX6_N
+Added Pin To Net: NetName=TX6_P Pin=J2-B41
+Added Net: Name=TX6_P
+Added Pin To Net: NetName=TX7_N Pin=J2-B46
+Added Net: Name=TX7_N
+Added Pin To Net: NetName=TX7_P Pin=J2-B45
+Added Net: Name=TX7_P
+Added Pin To Net: NetName=TX8_N Pin=J2-B51
+Added Net: Name=TX8_N
+Added Pin To Net: NetName=TX8_P Pin=J2-B50
+Added Net: Name=TX8_P
+Added Pin To Net: NetName=TX9_N Pin=J2-B55
+Added Net: Name=TX9_N
+Added Pin To Net: NetName=TX9_P Pin=J2-B54
+Added Net: Name=TX9_P
+Added Pin To Net: NetName=TX10_N Pin=J2-B59
+Added Net: Name=TX10_N
+Added Pin To Net: NetName=TX10_P Pin=J2-B58
+Added Net: Name=TX10_P
+Added Pin To Net: NetName=TX11_N Pin=J2-B63
+Added Net: Name=TX11_N
+Added Pin To Net: NetName=TX11_P Pin=J2-B62
+Added Net: Name=TX11_P
+Added Pin To Net: NetName=TX12_N Pin=J2-B67
+Added Net: Name=TX12_N
+Added Pin To Net: NetName=TX12_P Pin=J2-B66
+Added Net: Name=TX12_P
+Added Pin To Net: NetName=TX13_N Pin=J2-B71
+Added Net: Name=TX13_N
+Added Pin To Net: NetName=TX13_P Pin=J2-B70
+Added Net: Name=TX13_P
+Added Pin To Net: NetName=TX14_N Pin=J2-B75
+Added Net: Name=TX14_N
+Added Pin To Net: NetName=TX14_P Pin=J2-B74
+Added Net: Name=TX14_P
+Added Pin To Net: NetName=TX15_N Pin=J2-B79
+Added Net: Name=TX15_N
+Added Pin To Net: NetName=TX15_P Pin=J2-B78
+Added Net: Name=TX15_P
+Added Differential Pair: Name=REFCLK
+Added Differential Pair: Name=RX0
+Added Differential Pair: Name=RX1
+Added Differential Pair: Name=RX2
+Added Differential Pair: Name=RX3
+Added Differential Pair: Name=RX4
+Added Differential Pair: Name=RX5
+Added Differential Pair: Name=RX6
+Added Differential Pair: Name=RX7
+Added Differential Pair: Name=RX8
+Added Differential Pair: Name=RX9
+Added Differential Pair: Name=RX10
+Added Differential Pair: Name=RX11
+Added Differential Pair: Name=RX12
+Added Differential Pair: Name=RX13
+Added Differential Pair: Name=RX14
+Added Differential Pair: Name=RX15
+Added Differential Pair: Name=TX0
+Added Differential Pair: Name=TX1
+Added Differential Pair: Name=TX2
+Added Differential Pair: Name=TX3
+Added Differential Pair: Name=TX4
+Added Differential Pair: Name=TX5
+Added Differential Pair: Name=TX6
+Added Differential Pair: Name=TX7
+Added Differential Pair: Name=TX8
+Added Differential Pair: Name=TX9
+Added Differential Pair: Name=TX10
+Added Differential Pair: Name=TX11
+Added Differential Pair: Name=TX12
+Added Differential Pair: Name=TX13
+Added Differential Pair: Name=TX14
+Added Differential Pair: Name=TX15
