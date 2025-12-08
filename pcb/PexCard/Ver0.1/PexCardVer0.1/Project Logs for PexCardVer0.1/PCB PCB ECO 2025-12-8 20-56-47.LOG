@@ -1,0 +1,47 @@
+Added Component: Designator=JP?(CONN-SMD_20P-P0.50_I-PEX_20455-020E-02)
+Add component (AddParameter): Name = "BOM名称"; Value = "FPC连接器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=REFCLK_N Pin=JP?-17
+Added Pin To Net: NetName=REFCLK_P Pin=JP?-18
+Added Pin To Net: NetName=GND Pin=JP?-21
+Added Pin To Net: NetName=GND Pin=JP?-22
+Added Pin To Net: NetName=GND Pin=JP?-23
+Added Pin To Net: NetName=GND Pin=JP?-24
+Added Pin To Net: NetName=PERST# Pin=JP?-19
+Added Net: Name=PERST#
+Added Pin To Net: NetName=RX0_N Pin=JP?-13
+Added Net: Name=RX0_N
+Added Pin To Net: NetName=RX0_P Pin=JP?-14
+Added Net: Name=RX0_P
+Added Pin To Net: NetName=RX1_N Pin=JP?-9
+Added Net: Name=RX1_N
+Added Pin To Net: NetName=RX1_P Pin=JP?-10
+Added Net: Name=RX1_P
+Added Pin To Net: NetName=RX2_N Pin=JP?-5
+Added Net: Name=RX2_N
+Added Pin To Net: NetName=RX2_P Pin=JP?-6
+Added Net: Name=RX2_P
+Added Pin To Net: NetName=RX3_N Pin=JP?-2
+Added Net: Name=RX3_N
+Added Pin To Net: NetName=RX3_P Pin=JP?-1
+Added Net: Name=RX3_P
+Added Pin To Net: NetName=TX0_N Pin=JP?-15
+Added Net: Name=TX0_N
+Added Pin To Net: NetName=TX0_P Pin=JP?-16
+Added Net: Name=TX0_P
+Added Pin To Net: NetName=TX1_N Pin=JP?-11
+Added Net: Name=TX1_N
+Added Pin To Net: NetName=TX1_P Pin=JP?-12
+Added Net: Name=TX1_P
+Added Pin To Net: NetName=TX2_N Pin=JP?-7
+Added Net: Name=TX2_N
+Added Pin To Net: NetName=TX2_P Pin=JP?-8
+Added Net: Name=TX2_P
+Added Pin To Net: NetName=TX3_N Pin=JP?-3
+Added Net: Name=TX3_N
+Added Pin To Net: NetName=TX3_P Pin=JP?-4
+Added Net: Name=TX3_P
+Added Pin To Net: NetName=WAKE# Pin=JP?-20
+Added Net: Name=WAKE#
+Added Member To Class: ClassName=Sheet Member=Component JP? FPC1.0-24P

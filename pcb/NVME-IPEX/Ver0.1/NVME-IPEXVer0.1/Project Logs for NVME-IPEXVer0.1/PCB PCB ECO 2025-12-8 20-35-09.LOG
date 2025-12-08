@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=WAKE# Pin=JP1-5
+Removed Pin From Net: NetName=PERST# Pin=JP1-6
+Removed Pin From Net: NetName=REFCLK_P Pin=JP1-7
+Removed Pin From Net: NetName=REFCLK_N Pin=JP1-8
+Add Pin To Net: Unknown Pin: Pin J1-S1
+Add Pin To Net: Unknown Pin: Pin J1-S2
