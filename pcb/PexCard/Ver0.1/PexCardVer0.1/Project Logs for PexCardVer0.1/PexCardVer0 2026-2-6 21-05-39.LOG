@@ -1,9 +1,0 @@
-Change Component Footprint: Designator=L1 Old Footprint=SMMS0420 New Footprint=L0630贴片电感
-Change Component Footprint: Designator=L2 Old Footprint=SMMS0420 New Footprint=L0630贴片电感
-Change Component Footprint: Designator=L3 Old Footprint=SMMS0420 New Footprint=L0630贴片电感
-Change Component Comment : Designator=L1 Old Comment=4.7uH New Comment=8.2uH
-Change Component Comment : Designator=L2 Old Comment=4.7uH New Comment=8.2uH
-Change Component Comment : Designator=L3 Old Comment=4.7uH New Comment=8.2uH
-Change Component Comment : Designator=U2 Old Comment=TPS54202DDCR New Comment=TPS54302DDCR
-Change Component Comment : Designator=U3 Old Comment=TPS54202DDCR New Comment=TPS54302DDCR
-Change Component Comment : Designator=U4 Old Comment=TPS54202DDCR New Comment=TPS54302DDCR

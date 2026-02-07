@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=REFCLK_P Pin=J2-A13
-Added Pin To Net: NetName=REFCLK_N Pin=J2-A14
-Added Member To Class: ClassName=Sheet Member=Component C1 100nF/0603
-Added Member To Class: ClassName=Sheet Member=Component J4 Pcie Gen4 x4
-Added Member To Class: ClassName=Sheet Member=Component R9 0402/43R

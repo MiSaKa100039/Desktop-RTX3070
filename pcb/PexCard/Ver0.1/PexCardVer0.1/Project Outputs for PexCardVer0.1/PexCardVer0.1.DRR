@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PexCardVer0.1.PcbDoc   2026/2/7  19:30:53
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PexCardVer0.1-RoundHoles.TXT
+ASCII SlotHoles File : PexCardVer0.1-SlotHoles.TXT
+EIA File   : PexCardVer0.1.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             468       PTH        1021.59mm (40.22inch)
+T2      0.65mm (26mil)                                            Slot              4         PTH        48.30mm (1.90inch)
+T3      1mm (39mil)                                               Round             2         NPTH       11.35mm (0.45inch)
+T4      1.25mm (49mil)                                            Round             6         NPTH       97.20mm (3.83inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              480
+
+Total Processing Time (hh:mm:ss) : 00:00:00
