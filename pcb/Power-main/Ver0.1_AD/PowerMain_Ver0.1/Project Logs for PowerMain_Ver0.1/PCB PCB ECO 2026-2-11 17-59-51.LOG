@@ -1,0 +1,5 @@
+Added Component: Designator=JP?(HDR2.54-M-LS-2x8P)
+Add component (AddParameter): Name = "BOM名称"; Value = "12*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet Member=Component JP? Header 2X11

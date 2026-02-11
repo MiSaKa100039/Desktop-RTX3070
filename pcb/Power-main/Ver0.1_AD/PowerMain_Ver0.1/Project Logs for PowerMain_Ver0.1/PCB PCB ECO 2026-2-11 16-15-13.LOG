@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=Q9-1
+Removed Pin From Net: NetName=NetC3_2 Pin=Q9-3
+Removed Pin From Net: NetName=NetC12_2 Pin=Q10-1
+Removed Pin From Net: NetName=NetC12_2 Pin=Q10-3
+Change Component Comment : Designator=Q9 Old Comment=Nmos_DFN8_5*6 New Comment=Nmos_TOLL8
+Change Component Comment : Designator=Q10 Old Comment=Nmos_DFN8_5*6 New Comment=Nmos_TOLL8
+Change component parameters: Designator = "Q9" ("Q9"); Footprint = "TOLL-8"; UniqueID = "\YZKWXWPC" ("\YZKWXWPC")
+Change component parameters: Designator = "Q10" ("Q10"); Footprint = "TOLL-8"; UniqueID = "\BPOXIHKY" ("\BPOXIHKY")
+Added Pin To Net: NetName=NetQ9_5 Pin=Q9-3
+Added Pin To Net: NetName=NetQ10_5 Pin=Q10-3
+Change Net Name : Old Net Name=NetQ9_5 New Net Name=NetQ9_3
+Change Net Name : Old Net Name=NetQ10_5 New Net Name=NetQ10_3
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=U3-5
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_1 Pin=U5-5
+Added Net: Name=NetQ10_1

@@ -1,0 +1,8 @@
+Change Physical Footprint: Designator=J3 Old Footprint=AMASS_XT30PW(2+2)-M.G.B New Footprint=AMASS_XT30PW(2+2)-M.G.B
+Change Physical Footprint: Designator=JP1 Old Footprint=4.2mm 8Pin 公头 插件 New Footprint=4.2mm 8Pin 公头 插件
+Change Physical Footprint: Designator=R5 Old Footprint=R 2512_L New Footprint=R 2512_L
+Change Physical Footprint: Designator=R10 Old Footprint=R 0402_L New Footprint=R 0402_L
+Change Physical Footprint: Designator=R29 Old Footprint=R 2512_L New Footprint=R 2512_L
+Change Physical Footprint: Designator=R41 Old Footprint=R 2512_L New Footprint=R 2512_L
+Change Physical Footprint: Designator=R42 Old Footprint=R 2512_L New Footprint=R 2512_L
+Change Physical Footprint: Designator=U2 Old Footprint=QFN40 6X6_M New Footprint=QFN40 6X6_M
