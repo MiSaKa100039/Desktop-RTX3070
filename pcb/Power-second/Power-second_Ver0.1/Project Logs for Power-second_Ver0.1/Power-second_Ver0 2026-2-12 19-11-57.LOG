@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C12 Old Footprint=C0603_L New Footprint=C0805_L
+Change Component Footprint: Designator=C13 Old Footprint=C0603_L New Footprint=C0805_L
+Change Component Footprint: Designator=C14 Old Footprint=C0603_L New Footprint=C0805_L
+Change Component Footprint: Designator=C15 Old Footprint=C0603_L New Footprint=C0805_L
+Change Component Footprint: Designator=C31 Old Footprint=C0603_L New Footprint=C0805_L
+Change Component Footprint: Designator=C32 Old Footprint=C0603_L New Footprint=C0805_L
+Change Component Footprint: Designator=C33 Old Footprint=C0603_L New Footprint=C0805_L
+Change Component Footprint: Designator=C34 Old Footprint=C0603_L New Footprint=C0805_L
+Change Component Comment : Designator=C12 Old Comment=47uF 6.3V New Comment=47uF 10V
+Change Component Comment : Designator=C13 Old Comment=47uF 6.3V New Comment=47uF 10V
+Change Component Comment : Designator=C14 Old Comment=47uF 6.3V New Comment=47uF 10V
+Change Component Comment : Designator=C15 Old Comment=47uF 6.3V New Comment=47uF 10V

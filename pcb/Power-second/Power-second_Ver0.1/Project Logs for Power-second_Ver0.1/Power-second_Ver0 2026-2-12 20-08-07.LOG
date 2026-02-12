@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=E? NewDesignator=E1
+Change Component Designator: OldDesignator=E? NewDesignator=E2
+Change Component Designator: OldDesignator=E? NewDesignator=E3
+Added Component: Designator=E4(CT 6*6 - V -A)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E5(CT 6*6 - V -A)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E6(CT 6*6 - V -A)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VOUT12V Pin=E1-1
+Added Pin To Net: NetName=GND Pin=E1-2
+Added Pin To Net: NetName=VOUT12V Pin=E2-1
+Added Pin To Net: NetName=GND Pin=E2-2
+Added Pin To Net: NetName=VOUT12V Pin=E3-1
+Added Pin To Net: NetName=GND Pin=E3-2
+Added Pin To Net: NetName=VOUT12V Pin=E4-1
+Added Pin To Net: NetName=GND Pin=E4-2
+Added Pin To Net: NetName=VOUT12V Pin=E5-1
+Added Pin To Net: NetName=GND Pin=E5-2
+Added Pin To Net: NetName=VOUT12V Pin=E6-1
+Added Pin To Net: NetName=GND Pin=E6-2
+Added Member To Class: ClassName=Connecto-mcu Member=Component E1 47uF/35V
+Added Member To Class: ClassName=Connecto-mcu Member=Component E3 47uF/35V
+Added Member To Class: ClassName=Connecto-mcu Member=Component E4 47uF/35V
+Added Member To Class: ClassName=Connecto-mcu Member=Component E5 47uF/35V
+Added Member To Class: ClassName=Connecto-mcu Member=Component E6 47uF/35V
