@@ -1,0 +1,20 @@
+Add Component: Footprint Not Found SOD-323
+Add Component: Footprint Not Found R0402_L
+Add Component: Footprint Not Found R0402_L
+Add Component: Footprint Not Found R0402_L
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Added Pin To Net: NetName=GND Pin=U£¿-2
+Added Pin To Net: NetName=EN-LM5143 Pin=U£¿-3
+Added Pin To Net: NetName=PS-ON# Pin=U£¿-4
+Added Pin To Net: NetName=PWR_OK Pin=U£¿-8
+Added Pin To Net: NetName=NetR15_2 Pin=U£¿-1
+Added Net: Name=NetR15_2
+Add Class Member: Failed to add class member : Component D2 1N4148
+Add Class Member: Failed to add class member : Component R15 20K 1%
+Add Class Member: Failed to add class member : Component R16 20K 1%
+Add Class Member: Failed to add class member : Component R17 4.7K 1%
