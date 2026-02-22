@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PS-ON# Pin=JP4-5
+Added Pin To Net: NetName=GND Pin=JP4-5
+Added Pin To Net: NetName=GND Pin=JP4-6
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R19-2
