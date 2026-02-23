@@ -1,0 +1,28 @@
+Added Component: Designator=E1(CT 6*6 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E2(CT 6*6 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E3(CT 6*6 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E4(CT 6*6 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=E1-1
+Added Pin To Net: NetName=PGND Pin=E1-2
+Added Pin To Net: NetName=VBUS Pin=E2-1
+Added Pin To Net: NetName=PGND Pin=E2-2
+Added Pin To Net: NetName=VBUS Pin=E3-1
+Added Pin To Net: NetName=PGND Pin=E3-2
+Added Pin To Net: NetName=VBUS Pin=E4-1
+Added Pin To Net: NetName=PGND Pin=E4-2
+Added Member To Class: ClassName=Sheet Member=Component E1 10uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E2 10uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E3 10uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E4 10uF/35V

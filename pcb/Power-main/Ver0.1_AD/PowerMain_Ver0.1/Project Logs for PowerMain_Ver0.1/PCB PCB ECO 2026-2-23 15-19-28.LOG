@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VBUS Pin=R42-1
+Removed Pin From Net: NetName=INA226-B Pin=R42-2
+Added Pin To Net: NetName=INA226-B Pin=R42-1
+Added Pin To Net: NetName=VBUS Pin=R42-2

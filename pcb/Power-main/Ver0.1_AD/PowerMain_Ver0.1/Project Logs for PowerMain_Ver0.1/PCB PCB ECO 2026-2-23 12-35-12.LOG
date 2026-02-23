@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PGND Pin=C12-1
+Removed Pin From Net: NetName=PGND Pin=D10-2
+Removed Pin From Net: NetName=PGND Pin=E6-2
+Removed Pin From Net: NetName=INA226-B Pin=Q10-3
+Removed Pin From Net: NetName=INA226-B Pin=R18-2
+Removed Pin From Net: NetName=INA226-B Pin=U5-6
+Removed Member From Class: ClassName=Sheet Member=C12
+Removed Member From Class: ClassName=Sheet Member=C13
+Removed Member From Class: ClassName=Sheet Member=D8
+Removed Member From Class: ClassName=Sheet Member=D10
+Removed Member From Class: ClassName=Sheet Member=E6
+Removed Member From Class: ClassName=Sheet Member=Q10
+Removed Member From Class: ClassName=Sheet Member=R18
+Removed Member From Class: ClassName=Sheet Member=U5
+Added Pin To Net: NetName=INA226-B Pin=J2-1

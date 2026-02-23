@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=PGND Pin=C3-1
+Removed Pin From Net: NetName=PGND Pin=D7-2
+Removed Pin From Net: NetName=PGND Pin=E1-2
+Removed Pin From Net: NetName=PGND Pin=J1-2
+Removed Pin From Net: NetName=PGND Pin=J1-3
+Removed Pin From Net: NetName=PGND Pin=J1-4
+Removed Pin From Net: NetName=INA226-A Pin=Q9-3
+Removed Pin From Net: NetName=INA226-A Pin=R7-2
+Removed Pin From Net: NetName=VBUS Pin=R41-1
+Removed Pin From Net: NetName=INA226-A Pin=R41-2
+Removed Pin From Net: NetName=INA226-A Pin=U3-6
+Removed Member From Class: ClassName=Sheet Member=C3
+Removed Member From Class: ClassName=Sheet Member=C4
+Removed Member From Class: ClassName=Sheet Member=D5
+Removed Member From Class: ClassName=Sheet Member=D7
+Removed Member From Class: ClassName=Sheet Member=E1
+Removed Member From Class: ClassName=Sheet Member=J1
+Removed Member From Class: ClassName=Sheet Member=Q9
+Removed Member From Class: ClassName=Sheet Member=R7
+Removed Member From Class: ClassName=Sheet Member=R41
+Change Component Footprint: Designator=U3 Old Footprint=SOT23-6 New Footprint=USB-C-SMD_G-SWITCH_GT-USB-7010ASV
+Change Component Comment : Designator=U3 Old Comment=LM5050 New Comment=GT-USB-7010ASV
+Change component parameters: Designator = "U3" ("U3"); Footprint = "SOT23-6"; UniqueID = "\SNBVGCSA" ("\SNBVGCSA")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Center Height"; Value = "1.68mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connect-Disconnect Life"; Value = "1Íò´Î"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Type-C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core Colour"; Value = "ºÚÉ«"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating - Power (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230327/DF227B64686AC8FA0AD1775797F2C3F1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "GT-USB-7010ASV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "USB-C-SMD_G-SWITCH_GT-USB-7010ASV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Ä¸"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "Type-C Ä¸ ÎÔÌù"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "7.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "G-Switch(Æ·ÔÞ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "GT-USB-7010ASV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "f185ae662725428a9073ef0181ffed89ÂŽ0819f05c4eef4c71ace90d822a990e87"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "USB-C-SMD_G-SWITCH_GT-USB-7010ASV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "351.9678,311.023,0,0,0,0,0,-41.339,-59.055"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "ÎÔÌù"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "16P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-40¡æ~+85¡æ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage (Max)"; Value = "24V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C2988369"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "GT-USB-7010ASV"; VariantName = "[No Variations]"
