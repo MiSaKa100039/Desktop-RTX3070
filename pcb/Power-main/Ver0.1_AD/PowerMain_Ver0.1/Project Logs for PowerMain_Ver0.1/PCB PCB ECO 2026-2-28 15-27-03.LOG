@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VBUS Pin=JP4-10
+Added Pin To Net: NetName=VBUS Pin=JP4-2
+Added Pin To Net: NetName=EN-LM5143 Pin=JP4-16
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-2
+Added Pin To Net: NetName=FAN-PWM Pin=JP4-10
+Added Net: Name=FAN-PWM

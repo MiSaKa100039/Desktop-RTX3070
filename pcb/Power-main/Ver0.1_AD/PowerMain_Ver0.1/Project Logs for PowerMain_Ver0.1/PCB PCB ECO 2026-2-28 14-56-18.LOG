@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=INA226-B Pin=JP4-14
+Removed Pin From Net: NetName=EN-LM5143 Pin=JP4-16
+Added Pin To Net: NetName=VBUS Pin=JP4-14
+Added Pin To Net: NetName=INA226-B Pin=JP4-16
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-2

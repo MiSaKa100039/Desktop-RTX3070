@@ -1,0 +1,16 @@
+Added Component: Designator=R47(R 0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R48(R 0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-2
+Added Pin To Net: NetName=AGND Pin=R47-1
+Added Pin To Net: NetName=PGND Pin=R47-2
+Added Pin To Net: NetName=AGND Pin=R48-1
+Added Pin To Net: NetName=PGND Pin=R48-2
+Added Member To Class: ClassName=LM5143 Member=Component R47 0R 1%
+Added Member To Class: ClassName=LM5143 Member=Component R48 0R 1%

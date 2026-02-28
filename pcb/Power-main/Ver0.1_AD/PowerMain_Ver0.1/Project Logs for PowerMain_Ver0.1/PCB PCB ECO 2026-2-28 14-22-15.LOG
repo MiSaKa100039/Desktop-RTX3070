@@ -1,0 +1,14 @@
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-2
+Added Pin To Net: NetName=DPC Pin=U3-A6
+Added Pin To Net: NetName=DMC Pin=U3-A7
+Added Pin To Net: NetName=DPC Pin=U3-B6
+Added Pin To Net: NetName=DMC Pin=U3-B7
+Added Pin To Net: NetName=CC1 Pin=C9-1
+Added Pin To Net: NetName=CC1 Pin=U3-A5
+Added Pin To Net: NetName=CC1 Pin=U4-2
+Added Net: Name=CC1
+Added Pin To Net: NetName=CC2 Pin=C8-1
+Added Pin To Net: NetName=CC2 Pin=U3-B5
+Added Pin To Net: NetName=CC2 Pin=U4-1
+Added Net: Name=CC2
