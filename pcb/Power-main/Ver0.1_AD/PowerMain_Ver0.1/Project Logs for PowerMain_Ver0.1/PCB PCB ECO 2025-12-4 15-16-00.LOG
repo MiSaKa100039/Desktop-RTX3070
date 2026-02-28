@@ -1,0 +1,50 @@
+Added Component: Designator=JP1(4.2mm 8Pin 公头 插件)
+Add component (AddParameter): Name = "BOM名称"; Value = "4*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found AMPHENOL_10160920-1241100LF - duplicate
+Added Component: Designator=U4(TQFN-23_L4.0-W4.0-P0.50-BL_GS9238TQ-R)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-S1
+Add Pin To Net: Unknown Pin: Pin J3-S2
+Added Pin To Net: NetName=ENABLE Pin=U4-2
+Added Pin To Net: NetName=VBUS_FET Pin=U4-3
+Added Pin To Net: NetName=AGND-1 Pin=U4-4
+Added Pin To Net: NetName=NetR8_2 Pin=U4-5
+Added Pin To Net: NetName=NetR17_2 Pin=U4-6
+Added Pin To Net: NetName=VBUS_FET Pin=U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-10
+Add Pin To Net: Unknown Pin: Pin U4-11
+Added Pin To Net: NetName=PGND Pin=U4-12
+Added Pin To Net: NetName=PGND Pin=U4-13
+Added Pin To Net: NetName=PGND Pin=U4-14
+Added Pin To Net: NetName=PGND Pin=U4-15
+Added Pin To Net: NetName=NetC5_1 Pin=U4-16
+Added Pin To Net: NetName=NetC5_1 Pin=U4-17
+Added Pin To Net: NetName=NetC5_1 Pin=U4-18
+Added Pin To Net: NetName=PGND Pin=U4-19
+Added Pin To Net: NetName=NetC5_2 Pin=U4-20
+Added Pin To Net: NetName=NetC6_1 Pin=U4-21
+Added Pin To Net: NetName=VBUS_FET Pin=U4-22
+Added Pin To Net: NetName=NetC7_1 Pin=U4-23
+Added Pin To Net: NetName=VBUS_FET Pin=U4-24
+Added Pin To Net: NetName=NetC5_1 Pin=U4-25
+Add Class Member: Failed to add class member : Component D1 B5819w
+Add Class Member: Failed to add class member : Component D2 B5819w
+Add Class Member: Failed to add class member : Component D3 B5819w
+Add Class Member: Failed to add class member : Component D4 B5819w
+Add Class Member: Failed to add class member : Component J3 XT30PW(2+2)-M.G.B
+Added Member To Class: ClassName=Sheet Member=Component JP1 Header 4X2
+Add Class Member: Failed to add class member : Component JP2 Header 6X2
+Added Member To Class: ClassName=Sheet Member=Component U4 GS9238-ATQ-R

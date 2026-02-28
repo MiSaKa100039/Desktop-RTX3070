@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VBUS-C Pin=C48-1
+Removed Pin From Net: NetName=VBUS Pin=E11-1
+Removed Pin From Net: NetName=PGND Pin=E11-2
+Removed Pin From Net: NetName=VBUS Pin=E18-1
+Removed Pin From Net: NetName=PGND Pin=E18-2
+Removed Member From Class: ClassName=SW3518 Member=E11
+Removed Member From Class: ClassName=SW3518 Member=E18
+Change Component Comment : Designator=E20 Old Comment=47uF/35V New Comment=220uF/25V
+Change Component Comment : Designator=C48 Old Comment=100nF 25V New Comment=10uF 25V
+Change Component Comment : Designator=C12 Old Comment=100nF 50V New Comment=10uF 25V
+Added Component: Designator=C71(C0402_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC10_2 Pin=C48-1
+Added Pin To Net: NetName=NetC10_1 Pin=C71-1
+Added Pin To Net: NetName=PGND Pin=C71-2
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-2
+Added Member To Class: ClassName=SW3518 Member=Component C71 10uF 25V

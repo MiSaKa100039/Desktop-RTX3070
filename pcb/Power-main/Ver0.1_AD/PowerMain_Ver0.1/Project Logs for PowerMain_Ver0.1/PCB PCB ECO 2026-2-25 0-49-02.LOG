@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=FeadBack Pin=U2-28
+Added Pin To Net: NetName=VDDA-B Pin=U2-28

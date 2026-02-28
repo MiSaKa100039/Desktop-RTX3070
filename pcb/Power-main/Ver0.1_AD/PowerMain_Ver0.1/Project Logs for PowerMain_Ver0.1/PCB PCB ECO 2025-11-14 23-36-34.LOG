@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L1 Old Footprint=L 0805_L New Footprint=MHW1306SG1R0M
+Change Component Footprint: Designator=L2 Old Footprint=L 0805_L New Footprint=MHW1306SG1R0M
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4

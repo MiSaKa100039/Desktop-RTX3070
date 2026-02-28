@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=D1 Old Footprint=SOD-123 New Footprint=R0402_l
+Change Component Footprint: Designator=D2 Old Footprint=SOD-123 New Footprint=R0402_l
+Change Component Footprint: Designator=D3 Old Footprint=SOD-123 New Footprint=R0402_l
+Change Component Footprint: Designator=D4 Old Footprint=SOD-123 New Footprint=R0402_l
+Change Component Comment : Designator=D1 Old Comment=B5819w New Comment=TPNSR05F40NXT5G
+Change Component Comment : Designator=D2 Old Comment=B5819w New Comment=TPNSR05F40NXT5G
+Change Component Comment : Designator=D3 Old Comment=B5819w New Comment=TPNSR05F40NXT5G
+Change Component Comment : Designator=D4 Old Comment=B5819w New Comment=TPNSR05F40NXT5G
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-10
+Add Pin To Net: Unknown Pin: Pin U4-11

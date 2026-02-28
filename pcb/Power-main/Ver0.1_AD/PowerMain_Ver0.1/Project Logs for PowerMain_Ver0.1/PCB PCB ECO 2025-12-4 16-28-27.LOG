@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VOUT12V Pin=E11-1
+Removed Pin From Net: NetName=PGND Pin=E11-2
+Removed Pin From Net: NetName=VOUT12V Pin=E18-1
+Removed Pin From Net: NetName=PGND Pin=E18-2
+Removed Pin From Net: NetName=VOUT12V Pin=E23-1
+Removed Pin From Net: NetName=PGND Pin=E23-2
+Removed Pin From Net: NetName=VOUT12V Pin=E30-1
+Removed Pin From Net: NetName=PGND Pin=E30-2
+Removed Member From Class: ClassName=Sheet Member=E11
+Removed Member From Class: ClassName=Sheet Member=E18
+Removed Member From Class: ClassName=Sheet Member=E23
+Removed Member From Class: ClassName=Sheet Member=E30
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-10
+Add Pin To Net: Unknown Pin: Pin U4-11

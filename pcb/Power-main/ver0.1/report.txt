@@ -1,0 +1,3 @@
+Plotted to 'C:\Users\Changeo\Documents\prj\Desktop-RTX3070\pcb\Power-main\ver0.1\Power-main.plt'.
+信息: 完成。
+信息: 完成。

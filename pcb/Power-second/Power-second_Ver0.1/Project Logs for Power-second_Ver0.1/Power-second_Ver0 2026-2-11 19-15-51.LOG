@@ -1,0 +1,5 @@
+Added Component: Designator=JP5(AMPHENOL_10164279-124121LF)
+Add component (AddParameter): Name = "BOM名称"; Value = "6*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Connecto-mcu Member=Component JP5 Header 6X2

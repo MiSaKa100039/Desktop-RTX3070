@@ -1,0 +1,58 @@
+Added Component: Designator=C25(C0402_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C61(C0402_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C66(C0402_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C67(C0402_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E1(CT 6*4 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E6(CT 6*4 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(HDR2.54-M-LS-2x8P)
+Add component (AddParameter): Name = "BOM名称"; Value = "8*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=C25-1
+Added Pin To Net: NetName=VOUT12V Pin=C25-2
+Added Pin To Net: NetName=PGND Pin=C61-1
+Added Pin To Net: NetName=VOUT12V Pin=C61-2
+Added Pin To Net: NetName=PGND Pin=C66-1
+Added Pin To Net: NetName=VOUT12V Pin=C66-2
+Added Pin To Net: NetName=PGND Pin=C67-1
+Added Pin To Net: NetName=VOUT12V Pin=C67-2
+Added Pin To Net: NetName=NetC3_2 Pin=E1-1
+Added Pin To Net: NetName=PGND Pin=E1-2
+Added Pin To Net: NetName=NetC12_2 Pin=E6-1
+Added Pin To Net: NetName=PGND Pin=E6-2
+Added Pin To Net: NetName=NetQ10_3 Pin=JP4-2
+Added Pin To Net: NetName=VBUS Pin=JP4-4
+Added Pin To Net: NetName=VBUS Pin=JP4-8
+Added Pin To Net: NetName=VBUS Pin=JP4-12
+Added Pin To Net: NetName=NetQ9_3 Pin=JP4-14
+Change Net Name : Old Net Name=NetQ9_3 New Net Name=INA226-A
+Change Net Name : Old Net Name=NetQ10_3 New Net Name=INA226-B
+Added Member To Class: ClassName=Sheet Member=Component C25 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C61 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C66 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C67 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component E1 22uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E6 22uF/35V
+Added Member To Class: ClassName=Sheet Member=Component JP2 Header 8X2

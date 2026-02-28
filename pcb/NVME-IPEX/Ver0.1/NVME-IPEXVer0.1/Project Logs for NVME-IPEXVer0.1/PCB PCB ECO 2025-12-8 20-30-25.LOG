@@ -1,0 +1,22 @@
+Add Pin To Net: Unknown Pin: Pin J1-S1
+Add Pin To Net: Unknown Pin: Pin J1-S2
+Added Pin To Net: NetName=WAKE# Pin=JP1-1
+Added Pin To Net: NetName=PERST# Pin=JP1-2
+Added Pin To Net: NetName=REFCLK_P Pin=JP1-3
+Added Pin To Net: NetName=REFCLK_N Pin=JP1-4
+Added Pin To Net: NetName=TX0_P Pin=JP1-5
+Added Pin To Net: NetName=TX0_N Pin=JP1-6
+Added Pin To Net: NetName=RX0_P Pin=JP1-7
+Added Pin To Net: NetName=RX0_N Pin=JP1-8
+Added Pin To Net: NetName=TX1_P Pin=JP1-9
+Added Pin To Net: NetName=TX1_N Pin=JP1-10
+Added Pin To Net: NetName=RX1_P Pin=JP1-11
+Added Pin To Net: NetName=RX1_N Pin=JP1-12
+Added Pin To Net: NetName=TX2_P Pin=JP1-13
+Added Pin To Net: NetName=TX2_N Pin=JP1-14
+Added Pin To Net: NetName=RX2_P Pin=JP1-15
+Added Pin To Net: NetName=RX2_N Pin=JP1-16
+Added Pin To Net: NetName=TX3_P Pin=JP1-17
+Added Pin To Net: NetName=TX3_N Pin=JP1-18
+Added Pin To Net: NetName=RX3_N Pin=JP1-19
+Added Pin To Net: NetName=RX3_P Pin=JP1-20

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VOUT12V Pin=E?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=E?-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Added Member To Class: ClassName=Connecto-mcu Member=Component E2 47uF/35V

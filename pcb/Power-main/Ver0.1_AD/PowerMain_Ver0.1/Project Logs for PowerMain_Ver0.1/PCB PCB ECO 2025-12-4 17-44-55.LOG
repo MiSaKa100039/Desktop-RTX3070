@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VBUS Pin=E8-1
+Removed Pin From Net: NetName=PGND Pin=E8-2
+Removed Pin From Net: NetName=VBUS Pin=E9-1
+Removed Pin From Net: NetName=PGND Pin=E9-2
+Removed Pin From Net: NetName=VBUS Pin=E20-1
+Removed Pin From Net: NetName=PGND Pin=E20-2
+Removed Pin From Net: NetName=VBUS Pin=E21-1
+Removed Pin From Net: NetName=PGND Pin=E21-2
+Removed Member From Class: ClassName=Sheet Member=E8
+Removed Member From Class: ClassName=Sheet Member=E9
+Removed Member From Class: ClassName=Sheet Member=E20
+Removed Member From Class: ClassName=Sheet Member=E21
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-10
+Add Pin To Net: Unknown Pin: Pin U4-11

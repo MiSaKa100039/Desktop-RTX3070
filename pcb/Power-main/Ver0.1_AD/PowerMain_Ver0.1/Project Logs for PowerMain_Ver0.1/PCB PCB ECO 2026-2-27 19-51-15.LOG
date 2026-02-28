@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C12 Old Footprint=C0402_l New Footprint=C0603_l
+Change Component Footprint: Designator=C13 Old Footprint=C0402_l New Footprint=C0603_l
+Change Component Footprint: Designator=C48 Old Footprint=C0402_l New Footprint=C0603_l
+Change Component Footprint: Designator=C71 Old Footprint=C0402_l New Footprint=C0603_l
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-2

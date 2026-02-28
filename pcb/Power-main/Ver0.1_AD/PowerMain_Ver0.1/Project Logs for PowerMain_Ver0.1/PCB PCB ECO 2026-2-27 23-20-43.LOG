@@ -1,0 +1,22 @@
+Added Component: Designator=C?(C0402_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=C?-1
+Added Pin To Net: NetName=VBUS Pin=C?-1
+Added Pin To Net: NetName=PGND Pin=C?-2
+Added Pin To Net: NetName=PGND Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-2
+Added Pin To Net: NetName=NetC10_2 Pin=U4-6
+Added Pin To Net: NetName=NetC10_1 Pin=U4-7
+Change Net Name : Old Net Name=NetC10_1 New Net Name=CSNC
+Change Net Name : Old Net Name=NetC10_2 New Net Name=CSPC
+Added Member To Class: ClassName=SW3518 Member=Component C? 100nF 50V
+Added Member To Class: ClassName=SW3518 Member=Component C? 100nF 50V

@@ -1,0 +1,678 @@
+Removed Pin From Net: NetName=PGND Pin=C60-1
+Removed Pin From Net: NetName=PGND Pin=C61-1
+Removed Pin From Net: NetName=NetC78_1 Pin=C78-1
+Removed Pin From Net: NetName=NetC79_1 Pin=C79-1
+Removed Pin From Net: NetName=AGND Pin=C110-2
+Removed Pin From Net: NetName=AGND Pin=C111-2
+Removed Pin From Net: NetName=AGND Pin=C112-2
+Removed Pin From Net: NetName=AGND Pin=C113-2
+Removed Pin From Net: NetName=AGND Pin=C114-1
+Removed Pin From Net: NetName=AGND Pin=C115-1
+Removed Pin From Net: NetName=AGND Pin=C116-1
+Removed Pin From Net: NetName=AGND Pin=C117-1
+Removed Pin From Net: NetName=AGND Pin=C118-1
+Removed Pin From Net: NetName=PGND Pin=C?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=VBUS Pin=C?-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=VBUS Pin=E?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=PGND Pin=E?-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=VOUT12V Pin=J?-1
+Removed Pin From Net: NetName=NetC78_1 Pin=R31-1
+Removed Pin From Net: NetName=NetC79_1 Pin=R32-1
+Removed Pin From Net: NetName=VOUT12V Pin=R34-2
+Removed Pin From Net: NetName=VOUT12V Pin=R35-2
+Removed Pin From Net: NetName=NetQ8_4 Pin=R39-1
+Removed Pin From Net: NetName=NetQ7_4 Pin=R44-1
+Removed Pin From Net: NetName=PGND Pin=R45-1
+Removed Pin From Net: NetName=PGND Pin=R46-1
+Removed Pin From Net: NetName=NetR39_2 Pin=U2-12
+Removed Pin From Net: NetName=NetR37_2 Pin=U2-13
+Removed Pin From Net: NetName=NetR38_2 Pin=U2-18
+Removed Pin From Net: NetName=VBUS Pin=U2-31
+Removed Pin From Net: NetName=VBUS Pin=U2-34
+Removed Pin From Net: NetName=VBUS Pin=U2-40
+Removed Pin From Net: NetName=ENABLE Pin=U?-2
+Removed Pin From Net: NetName=VBUS_FET Pin=U?-3
+Removed Pin From Net: NetName=AGND-1 Pin=U?-4
+Removed Member From Class: ClassName=Sheet Member=C60
+Removed Member From Class: ClassName=Sheet Member=C61
+Removed Member From Class: ClassName=Sheet Member=C78
+Removed Member From Class: ClassName=Sheet Member=C79
+Removed Member From Class: ClassName=Sheet Member=C80
+Removed Member From Class: ClassName=Sheet Member=C81
+Removed Member From Class: ClassName=Sheet Member=C108
+Removed Member From Class: ClassName=Sheet Member=C109
+Removed Member From Class: ClassName=Sheet Member=C110
+Removed Member From Class: ClassName=Sheet Member=C111
+Removed Member From Class: ClassName=Sheet Member=C112
+Removed Member From Class: ClassName=Sheet Member=C113
+Removed Member From Class: ClassName=Sheet Member=C114
+Removed Member From Class: ClassName=Sheet Member=C115
+Removed Member From Class: ClassName=Sheet Member=C116
+Removed Member From Class: ClassName=Sheet Member=C117
+Removed Member From Class: ClassName=Sheet Member=C118
+Removed Member From Class: ClassName=Sheet Member=E?
+Removed Member From Class: ClassName=Sheet Member=R41
+Removed Member From Class: ClassName=Sheet Member=R42
+Removed Member From Class: ClassName=Sheet Member=R43
+Removed Member From Class: ClassName=Sheet Member=R44
+Removed Member From Class: ClassName=Sheet Member=R45
+Removed Member From Class: ClassName=Sheet Member=R46
+Removed Member From Class: ClassName=Sheet Member=R47
+Removed Member From Class: ClassName=Sheet Member=R48
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=E? Old Footprint=CAP 1.5*4*8 New Footprint=CT 6*6 - V
+Change Component Footprint: Designator=L? Old Footprint=ECI-IN-OP002 Indoctor New Footprint=FPIB1087-R47M-XA
+Change Component Footprint: Designator=L? Old Footprint=ECI-IN-OP002 Indoctor New Footprint=FPIB1087-R47M-XA
+Change Component Footprint: Designator=L? Old Footprint=ECI-IN-OP002 Indoctor New Footprint=NR6028
+Change Component Comment : Designator=L3 Old Comment=0.68uH New Comment=5.6uH
+Change Component Comment : Designator=L4 Old Comment=0.68uH New Comment=5.6uH
+Change Component Comment : Designator=R34 Old Comment=0R 1% New Comment=49.9R 1%
+Change Component Comment : Designator=R29 Old Comment=1mR New Comment=2mR
+Change Component Comment : Designator=R30 Old Comment=1mR New Comment=2mR
+Change Component Comment : Designator=D3 Old Comment=1N4148 New Comment=B5819w
+Change Component Comment : Designator=D4 Old Comment=1N4148 New Comment=B5819w
+Change Component Comment : Designator=R25 Old Comment=1R 1% New Comment=0R 1%
+Change Component Comment : Designator=R26 Old Comment=1R 1% New Comment=0R 1%
+Change Component Comment : Designator=R27 Old Comment=1R 1% New Comment=0R 1%
+Change Component Comment : Designator=R28 Old Comment=1R 1% New Comment=0R 1%
+Change Component Comment : Designator=R37 Old Comment=1R 1% New Comment=0R 1%
+Change Component Comment : Designator=R38 Old Comment=1R 1% New Comment=0R 1%
+Change Component Comment : Designator=R39 Old Comment=1R 1% New Comment=10K 1%
+Change Component Comment : Designator=R33 Old Comment=49.9R 1% New Comment=0R 1%
+Change Component Comment : Designator=R36 Old Comment=49.9R 1% New Comment=0R 1%
+Change Component Comment : Designator=R32 Old Comment=DNP New Comment=0R 1%
+Change Component Comment : Designator=R40 Old Comment=DNP New Comment=1R 1%
+Change Component Comment : Designator=R31 Old Comment=DNP New Comment=49.9R 1%
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D8
+Change Component Designator: OldDesignator=D? NewDesignator=D9
+Change Component Designator: OldDesignator=D? NewDesignator=D10
+Change Component Designator: OldDesignator=E? NewDesignator=E1
+Change Component Designator: OldDesignator=E? NewDesignator=E2
+Change Component Designator: OldDesignator=E? NewDesignator=E3
+Change Component Designator: OldDesignator=E? NewDesignator=E4
+Change Component Designator: OldDesignator=E? NewDesignator=E5
+Change Component Designator: OldDesignator=E? NewDesignator=E6
+Change Component Designator: OldDesignator=E? NewDesignator=E7
+Change Component Designator: OldDesignator=E? NewDesignator=E8
+Change Component Designator: OldDesignator=E? NewDesignator=E9
+Change Component Designator: OldDesignator=E? NewDesignator=E10
+Change Component Designator: OldDesignator=E? NewDesignator=E11
+Change Component Designator: OldDesignator=E? NewDesignator=E12
+Change Component Designator: OldDesignator=E? NewDesignator=E13
+Change Component Designator: OldDesignator=E? NewDesignator=E14
+Change Component Designator: OldDesignator=E? NewDesignator=E15
+Change Component Designator: OldDesignator=E? NewDesignator=E16
+Change Component Designator: OldDesignator=E? NewDesignator=E17
+Change Component Designator: OldDesignator=E? NewDesignator=E18
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=L? NewDesignator=L5
+Change Component Designator: OldDesignator=L? NewDesignator=L6
+Change Component Designator: OldDesignator=L? NewDesignator=L7
+Change Component Designator: OldDesignator=Q? NewDesignator=Q9
+Change Component Designator: OldDesignator=Q? NewDesignator=Q10
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Added Component: Designator=C30(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C31(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C32(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C33(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C34(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C35(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C36(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C38(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C39(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C40(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C41(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C42(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C43(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C44(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C45(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C46(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C47(C 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C48(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C51(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C52(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C53(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C54(C0603_l)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E19(CAP 1.5*4*8)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E20(CAP 1.5*4*8)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E21(CAP 1.5*4*8)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E22(CAP 1.5*4*8)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E23(CT 6*6 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E24(CT 6*6 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E25(CT 6*6 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E26(CT 6*6 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E27(CT 6*6 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E28(CT 6*6 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E29(CT 6*6 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E30(CT 6*6 - V)
+Add component (AddParameter): Name = "BOM名称"; Value = "直插电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=C30-1
+Added Pin To Net: NetName=VBUS Pin=C30-2
+Added Pin To Net: NetName=PGND Pin=C31-1
+Added Pin To Net: NetName=PGND Pin=C32-1
+Added Pin To Net: NetName=PGND Pin=C33-1
+Added Pin To Net: NetName=VBUS Pin=C33-2
+Added Pin To Net: NetName=PGND Pin=C34-1
+Added Pin To Net: NetName=VBUS Pin=C34-2
+Added Pin To Net: NetName=PGND Pin=C35-1
+Added Pin To Net: NetName=VBUS Pin=C35-2
+Added Pin To Net: NetName=PGND Pin=C36-1
+Added Pin To Net: NetName=VBUS Pin=C36-2
+Added Pin To Net: NetName=PGND Pin=C37-1
+Added Pin To Net: NetName=VBUS Pin=C37-2
+Added Pin To Net: NetName=PGND Pin=C38-1
+Added Pin To Net: NetName=VBUS Pin=C38-2
+Added Pin To Net: NetName=PGND Pin=C39-1
+Added Pin To Net: NetName=VBUS Pin=C39-2
+Added Pin To Net: NetName=PGND Pin=C40-1
+Added Pin To Net: NetName=VBUS Pin=C40-2
+Added Pin To Net: NetName=NetC78_1 Pin=C41-1
+Added Pin To Net: NetName=NetC79_1 Pin=C42-1
+Added Pin To Net: NetName=PGND Pin=C43-1
+Added Pin To Net: NetName=VOUT12V Pin=C43-2
+Added Pin To Net: NetName=PGND Pin=C44-1
+Added Pin To Net: NetName=VOUT12V Pin=C44-2
+Added Pin To Net: NetName=PGND Pin=C47-1
+Added Pin To Net: NetName=AGND Pin=C48-1
+Added Pin To Net: NetName=AGND Pin=C51-1
+Added Pin To Net: NetName=AGND Pin=C52-1
+Added Pin To Net: NetName=AGND Pin=C53-1
+Added Pin To Net: NetName=AGND Pin=C54-1
+Added Pin To Net: NetName=VBUS Pin=E19-1
+Added Pin To Net: NetName=PGND Pin=E19-2
+Added Pin To Net: NetName=VBUS Pin=E20-1
+Added Pin To Net: NetName=PGND Pin=E20-2
+Added Pin To Net: NetName=VBUS Pin=E21-1
+Added Pin To Net: NetName=PGND Pin=E21-2
+Added Pin To Net: NetName=VBUS Pin=E22-1
+Added Pin To Net: NetName=PGND Pin=E22-2
+Added Pin To Net: NetName=VOUT12V Pin=E23-1
+Added Pin To Net: NetName=PGND Pin=E23-2
+Added Pin To Net: NetName=VOUT12V Pin=E24-1
+Added Pin To Net: NetName=PGND Pin=E24-2
+Added Pin To Net: NetName=VOUT12V Pin=E25-1
+Added Pin To Net: NetName=PGND Pin=E25-2
+Added Pin To Net: NetName=VOUT12V Pin=E26-1
+Added Pin To Net: NetName=PGND Pin=E26-2
+Added Pin To Net: NetName=VOUT12V Pin=E27-1
+Added Pin To Net: NetName=PGND Pin=E27-2
+Added Pin To Net: NetName=VOUT12V Pin=E28-1
+Added Pin To Net: NetName=PGND Pin=E28-2
+Added Pin To Net: NetName=VOUT12V Pin=E29-1
+Added Pin To Net: NetName=PGND Pin=E29-2
+Added Pin To Net: NetName=VOUT12V Pin=E30-1
+Added Pin To Net: NetName=PGND Pin=E30-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-S1
+Add Pin To Net: Unknown Pin: Pin J3-S2
+Added Pin To Net: NetName=VOUT12V Pin=R32-2
+Added Pin To Net: NetName=VOUT12V Pin=R33-2
+Added Pin To Net: NetName=NetQ8_4 Pin=R35-1
+Added Pin To Net: NetName=NetQ7_4 Pin=R36-1
+Added Pin To Net: NetName=AGND Pin=R39-1
+Added Pin To Net: NetName=COMP Pin=U2-2
+Added Pin To Net: NetName=NetR37_2 Pin=U2-12
+Added Pin To Net: NetName=NetR38_2 Pin=U2-19
+Added Pin To Net: NetName=FeadBack Pin=U2-28
+Added Pin To Net: NetName=COMP Pin=U2-29
+Added Pin To Net: NetName=EN-LM5143 Pin=U2-31
+Added Pin To Net: NetName=SYNC-OUT Pin=U2-33
+Added Pin To Net: NetName=NetR39_2 Pin=U2-37
+Added Pin To Net: NetName=EN-LM5143 Pin=U2-40
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-12
+Add Pin To Net: Unknown Pin: Pin U4-13
+Add Pin To Net: Unknown Pin: Pin U4-14
+Add Pin To Net: Unknown Pin: Pin U4-15
+Add Pin To Net: Unknown Pin: Pin U4-19
+Add Pin To Net: Unknown Pin: Pin U4-22
+Add Pin To Net: Unknown Pin: Pin U4-24
+Change Net Name : Old Net Name=NetC50_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetC78_1 New Net Name=NetC41_1
+Change Net Name : Old Net Name=NetC79_1 New Net Name=NetC42_1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetL?_1 New Net Name=NetL5_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=D5-2
+Added Pin To Net: NetName=NetC3_2 Pin=J1-1
+Added Pin To Net: NetName=NetC3_2 Pin=Q9-1
+Added Pin To Net: NetName=NetC3_2 Pin=Q9-2
+Added Pin To Net: NetName=NetC3_2 Pin=Q9-3
+Added Pin To Net: NetName=NetC3_2 Pin=U3-4
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=D5-1
+Added Pin To Net: NetName=NetC4_1 Pin=D7-1
+Added Pin To Net: NetName=NetC4_1 Pin=U3-2
+Added Pin To Net: NetName=NetC4_1 Pin=U3-3
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R7-1
+Added Pin To Net: NetName=NetC4_2 Pin=U3-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=L7-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=D8-2
+Added Pin To Net: NetName=NetC12_2 Pin=J2-1
+Added Pin To Net: NetName=NetC12_2 Pin=Q10-1
+Added Pin To Net: NetName=NetC12_2 Pin=Q10-2
+Added Pin To Net: NetName=NetC12_2 Pin=Q10-3
+Added Pin To Net: NetName=NetC12_2 Pin=U5-4
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=R18-1
+Added Pin To Net: NetName=NetC13_2 Pin=U5-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=R24-1
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC41_2 Pin=D3-2
+Added Pin To Net: NetName=NetC41_2 Pin=U2-20
+Added Net: Name=NetC41_2
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC42_2 Pin=D4-2
+Added Pin To Net: NetName=NetC42_2 Pin=U2-11
+Added Net: Name=NetC42_2
+Added Pin To Net: NetName=NetC45_1 Pin=C45-1
+Added Pin To Net: NetName=NetC45_1 Pin=R34-1
+Added Pin To Net: NetName=NetC45_1 Pin=U2-27
+Added Net: Name=NetC45_1
+Added Pin To Net: NetName=NetC45_2 Pin=C45-2
+Added Pin To Net: NetName=NetC45_2 Pin=R33-1
+Added Pin To Net: NetName=NetC45_2 Pin=U2-26
+Added Net: Name=NetC45_2
+Added Pin To Net: NetName=NetC46_1 Pin=C46-1
+Added Pin To Net: NetName=NetC46_1 Pin=R31-1
+Added Pin To Net: NetName=NetC46_1 Pin=U2-4
+Added Net: Name=NetC46_1
+Added Pin To Net: NetName=NetC46_2 Pin=C46-2
+Added Pin To Net: NetName=NetC46_2 Pin=C47-2
+Added Pin To Net: NetName=NetC46_2 Pin=R32-1
+Added Pin To Net: NetName=NetC46_2 Pin=R40-1
+Added Pin To Net: NetName=NetC46_2 Pin=U2-5
+Added Net: Name=NetC46_2
+Added Pin To Net: NetName=NetC48_2 Pin=C48-2
+Added Pin To Net: NetName=NetC48_2 Pin=U2-30
+Added Net: Name=NetC48_2
+Added Pin To Net: NetName=NetC51_2 Pin=C51-2
+Added Pin To Net: NetName=NetC51_2 Pin=U2-1
+Added Net: Name=NetC51_2
+Added Pin To Net: NetName=NetC52_2 Pin=C52-2
+Added Pin To Net: NetName=NetC52_2 Pin=U2-32
+Added Net: Name=NetC52_2
+Added Pin To Net: NetName=NetC54_2 Pin=C54-2
+Added Pin To Net: NetName=NetC54_2 Pin=U2-38
+Added Net: Name=NetC54_2
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=R30-1
+Added Pin To Net: NetName=NetL3_2 Pin=R34-2
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=NetL4_1 Pin=R29-1
+Added Pin To Net: NetName=NetL4_1 Pin=R31-2
+Added Net: Name=NetL4_1
+Added Pin To Net: NetName=NetQ9_4 Pin=Q9-4
+Added Pin To Net: NetName=NetQ9_4 Pin=U3-5
+Added Net: Name=NetQ9_4
+Added Pin To Net: NetName=NetQ10_4 Pin=Q10-4
+Added Pin To Net: NetName=NetQ10_4 Pin=U5-5
+Added Net: Name=NetQ10_4
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R16-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=U1-6
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=U2-13
+Added Net: Name=NetR35_2
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=U2-18
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=U2-6
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=VCC-LM5143B Pin=C31-2
+Added Pin To Net: NetName=VCC-LM5143B Pin=C32-2
+Added Pin To Net: NetName=VCC-LM5143B Pin=D3-1
+Added Pin To Net: NetName=VCC-LM5143B Pin=D4-1
+Added Pin To Net: NetName=VCC-LM5143B Pin=U2-15
+Added Pin To Net: NetName=VCC-LM5143B Pin=U2-16
+Added Net: Name=VCC-LM5143B
+Added Pin To Net: NetName=VDDA-B Pin=C53-2
+Added Pin To Net: NetName=VDDA-B Pin=U2-34
+Added Pin To Net: NetName=VDDA-B Pin=U2-36
+Added Net: Name=VDDA-B
+Added Member To Class: ClassName=Sheet Member=Component C3 1uF 50V
+Added Member To Class: ClassName=Sheet Member=Component C4 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C5 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C6 10uF 50V
+Added Member To Class: ClassName=Sheet Member=Component C7 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C8 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C9 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C10 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C11 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C12 1uF 50V
+Added Member To Class: ClassName=Sheet Member=Component C13 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C14 0.47uF 50V
+Added Member To Class: ClassName=Sheet Member=Component C15 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C17 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C18 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C21 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C22 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C23 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C24 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C25 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C26 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C27 2.2uF 50V
+Added Member To Class: ClassName=Sheet Member=Component C28 1nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C29 15pF 50V
+Added Member To Class: ClassName=Sheet Member=Component C30 0.47uF 50V
+Added Member To Class: ClassName=Sheet Member=Component C31 2.2uF 50V
+Added Member To Class: ClassName=Sheet Member=Component C32 2.2uF 50V
+Added Member To Class: ClassName=Sheet Member=Component C33 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C34 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C35 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C36 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C37 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C38 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C39 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C40 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C41 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C42 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C43 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C44 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C45 33pF 50V
+Added Member To Class: ClassName=Sheet Member=Component C46 33pF 50V
+Added Member To Class: ClassName=Sheet Member=Component C47 2.2uF 50V
+Added Member To Class: ClassName=Sheet Member=Component C48 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C51 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C52 100nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C53 220nF 50V
+Added Member To Class: ClassName=Sheet Member=Component C54 10nF 50V
+Added Member To Class: ClassName=Sheet Member=Component D5 B5819w
+Added Member To Class: ClassName=Sheet Member=Component D6 SMBJ30A
+Added Member To Class: ClassName=Sheet Member=Component D7 B5819w
+Added Member To Class: ClassName=Sheet Member=Component D8 B5819w
+Added Member To Class: ClassName=Sheet Member=Component D10 B5819w
+Added Member To Class: ClassName=Sheet Member=Component E1 22uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E2 100uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E3 100uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E4 100uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E5 100uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E6 22uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E7 10uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E8 10uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E9 10uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E10 10uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E11 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E12 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E13 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E14 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E15 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E16 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E17 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E18 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E19 10uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E20 10uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E21 10uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E22 10uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E23 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E24 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E25 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E26 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E27 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E28 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E29 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component E30 47uF/35V
+Added Member To Class: ClassName=Sheet Member=Component J2 ICX301PT-M
+Add Class Member: Failed to add class member : Component J3 XT30PW(2+2)-M.G.B
+Added Member To Class: ClassName=Sheet Member=Component L5 0.47uH
+Added Member To Class: ClassName=Sheet Member=Component L6 0.47uH
+Added Member To Class: ClassName=Sheet Member=Component Q10 Nmos_DFN8_5*6
+Added Member To Class: ClassName=Sheet Member=Component R7 100R 1%
+Added Member To Class: ClassName=Sheet Member=Component R8 1R 1%
+Added Member To Class: ClassName=Sheet Member=Component R16 1R 1%
+Added Member To Class: ClassName=Sheet Member=Component R17 2MR 1%
+Added Member To Class: ClassName=Sheet Member=Component R18 100R 1%
+Added Member To Class: ClassName=Sheet Member=Component R19 1R 1%
+Added Member To Class: ClassName=Sheet Member=Component R21 0R 1%
+Added Member To Class: ClassName=Sheet Member=Component R23 0R 1%
+Added Member To Class: ClassName=Sheet Member=Component U3 LM5050
+Add Class Member: Failed to add class member : Component U4 GS9238-ATQ-R

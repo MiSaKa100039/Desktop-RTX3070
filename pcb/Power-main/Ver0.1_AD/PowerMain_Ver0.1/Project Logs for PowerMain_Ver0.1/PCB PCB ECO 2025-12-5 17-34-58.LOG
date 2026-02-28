@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=VBUS_FET Pin=E1-1
+Removed Pin From Net: NetName=VBUS_FET Pin=L5-2
+Removed Pin From Net: NetName=VBUS_FET Pin=Q9-5
+Removed Pin From Net: NetName=VBUS_FET Pin=Q9-5
+Removed Pin From Net: NetName=VBUS_FET Pin=Q9-5
+Removed Pin From Net: NetName=VBUS_FET Pin=Q9-5
+Removed Pin From Net: NetName=VBUS_FET Pin=Q9-5
+Removed Pin From Net: NetName=VBUS_FET Pin=R7-2
+Removed Pin From Net: NetName=NetC3_2 Pin=R41-1
+Removed Pin From Net: NetName=NetC12_2 Pin=R42-1
+Removed Pin From Net: NetName=VBUS_FET Pin=U3-6
+Added Pin To Net: NetName=NetC3_2 Pin=J1-1
+Added Pin To Net: NetName=NetC12_2 Pin=J2-1
+Added Pin To Net: NetName=VBUS_FET Pin=R42-2
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-10
+Add Pin To Net: Unknown Pin: Pin U4-11
+Change Net Name : Old Net Name=VBUS_FET New Net Name=NetE6_1
+Added Pin To Net: NetName=NetE1_1 Pin=E1-1
+Added Pin To Net: NetName=NetE1_1 Pin=Q9-5
+Added Pin To Net: NetName=NetE1_1 Pin=Q9-5
+Added Pin To Net: NetName=NetE1_1 Pin=Q9-5
+Added Pin To Net: NetName=NetE1_1 Pin=Q9-5
+Added Pin To Net: NetName=NetE1_1 Pin=Q9-5
+Added Pin To Net: NetName=NetE1_1 Pin=R7-2
+Added Pin To Net: NetName=NetE1_1 Pin=R41-2
+Added Pin To Net: NetName=NetE1_1 Pin=U3-6
+Added Net: Name=NetE1_1
+Added Pin To Net: NetName=VBUS_FET Pin=L5-2
+Added Pin To Net: NetName=VBUS_FET Pin=R41-1
+Added Pin To Net: NetName=VBUS_FET Pin=R42-1
+Added Net: Name=VBUS_FET

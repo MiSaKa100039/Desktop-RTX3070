@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=JP3 Old Footprint=HDR2.54-M-LS-2x8P New Footprint=2.54 2x8P 贴片排针
+Change Component Footprint: Designator=JP4 Old Footprint=HDR2.54-M-LS-2x8P New Footprint=CONN-SMD_24P-P3.00_XKB_C3030WRS-2X12D-LPSW
+Change Component Comment : Designator=JP4 Old Comment=Header 8X2 New Comment=Header 2X11
+Change component parameters: Designator = "JP4" ("JP4"); Footprint = "HDR2.54-M-LS-2x8P"; UniqueID = "\MJLZHNVZ" ("\MJLZHNVZ")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "12*2P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(2.54 2x8P 贴片排针)
+Add component (AddParameter): Name = "BOM名称"; Value = "8*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(2.54 2x8P 贴片排针)
+Add component (AddParameter): Name = "BOM名称"; Value = "8*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Class: Name=Connecto-mcu

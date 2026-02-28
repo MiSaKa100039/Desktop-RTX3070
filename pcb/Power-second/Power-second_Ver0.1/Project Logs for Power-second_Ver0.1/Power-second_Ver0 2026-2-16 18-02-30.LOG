@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VBUS Pin=JP2-4
+Change Net Name : Old Net Name=INA226-A New Net Name=INA226-A1
+Change Net Name : Old Net Name=INA226-B New Net Name=INA226-B1
+Added Pin To Net: NetName=INA226-A2 Pin=JP2-12
+Added Net: Name=INA226-A2
+Added Pin To Net: NetName=INA226-B2 Pin=JP2-4
+Added Net: Name=INA226-B2

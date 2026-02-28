@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: H:\Project\Desktop-RTX3070\pcb\PexCard\Ver0.1\PexCardVer0.1\PexCardVer0.1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pexcardver0.1-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pexcardver0.1-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

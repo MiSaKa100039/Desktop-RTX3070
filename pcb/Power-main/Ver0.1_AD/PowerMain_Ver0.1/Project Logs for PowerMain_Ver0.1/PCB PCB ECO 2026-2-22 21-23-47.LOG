@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=PGND Pin=JP1-1
+Added Pin To Net: NetName=PGND Pin=JP1-2
+Added Pin To Net: NetName=PGND Pin=JP1-3
+Added Pin To Net: NetName=PGND Pin=JP1-4
+Added Pin To Net: NetName=VOUT12V Pin=JP1-5
+Added Pin To Net: NetName=VOUT12V Pin=JP1-6
+Added Pin To Net: NetName=VOUT12V Pin=JP1-7
+Added Pin To Net: NetName=VOUT12V Pin=JP1-8
+Added Member To Class: ClassName=Sheet Member=Component JP1 Header 4X2

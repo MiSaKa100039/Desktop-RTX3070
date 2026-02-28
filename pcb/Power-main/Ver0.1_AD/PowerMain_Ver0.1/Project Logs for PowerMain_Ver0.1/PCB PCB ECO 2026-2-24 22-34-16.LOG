@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=AGND Pin=C48-1
+Removed Pin From Net: NetName=AGND Pin=C51-1
+Removed Pin From Net: NetName=AGND Pin=C55-1
+Removed Pin From Net: NetName=AGND Pin=C56-1
+Removed Pin From Net: NetName=AGND Pin=U2-3
+Removed Member From Class: ClassName=Sheet Member=C48
+Removed Member From Class: ClassName=Sheet Member=C51
+Removed Member From Class: ClassName=Sheet Member=C55
+Removed Member From Class: ClassName=Sheet Member=C56
+Added Component: Designator=C3(C 0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=C3-2
+Added Pin To Net: NetName=VDDA-B Pin=U2-3
+Added Pin To Net: NetName=SoftStart Pin=C3-1
+Added Pin To Net: NetName=SoftStart Pin=U1-1
+Added Pin To Net: NetName=SoftStart Pin=U1-30
+Added Pin To Net: NetName=SoftStart Pin=U2-1
+Added Pin To Net: NetName=SoftStart Pin=U2-30
+Added Net: Name=SoftStart
+Added Member To Class: ClassName=Sheet Member=Component C3 1nF 50V
+Added Member To Class: ClassName=Sheet Member=Component Q7 Nmos_DFN8_5*6

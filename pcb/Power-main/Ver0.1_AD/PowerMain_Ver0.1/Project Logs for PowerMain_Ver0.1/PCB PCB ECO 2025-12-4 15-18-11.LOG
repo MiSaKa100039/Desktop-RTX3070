@@ -1,0 +1,26 @@
+Added Component: Designator=JP2(AMPHENOL_10160920-1241100LF)
+Add component (AddParameter): Name = "BOM名称"; Value = "6*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-S1
+Add Pin To Net: Unknown Pin: Pin J3-S2
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-10
+Add Pin To Net: Unknown Pin: Pin U4-11
+Add Class Member: Failed to add class member : Component D1 B5819w
+Add Class Member: Failed to add class member : Component D2 B5819w
+Add Class Member: Failed to add class member : Component D3 B5819w
+Add Class Member: Failed to add class member : Component D4 B5819w
+Add Class Member: Failed to add class member : Component J3 XT30PW(2+2)-M.G.B
+Added Member To Class: ClassName=Sheet Member=Component JP2 Header 6X2
