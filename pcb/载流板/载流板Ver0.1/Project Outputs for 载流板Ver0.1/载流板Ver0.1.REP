@@ -1,0 +1,140 @@
+*************************************************************
+FileName = ‘ÿ¡˜∞ÂVer0.1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : ‘ÿ¡˜∞ÂVer0.1_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ‘ÿ¡˜∞ÂVer0.1_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ‘ÿ¡˜∞ÂVer0.1_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ‘ÿ¡˜∞ÂVer0.1_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ‘ÿ¡˜∞ÂVer0.1_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ‘ÿ¡˜∞ÂVer0.1_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ‘ÿ¡˜∞ÂVer0.1_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ‘ÿ¡˜∞ÂVer0.1_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ‘ÿ¡˜∞ÂVer0.1_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : ‘ÿ¡˜∞ÂVer0.1_Profile.gbr
+
+
+Used DCodes :
+    D20
+*************************************************************
+

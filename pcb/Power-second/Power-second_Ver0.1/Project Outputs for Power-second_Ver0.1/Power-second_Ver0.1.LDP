@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\git_downld\Desktop-RTX3070\pcb\Power-second\Power-second_Ver0.1\Power-second_Ver0.1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=power-second_ver0.1.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=power-second_ver0.1-rectholes.txt|DrillLayers=gtl,g1,g2,gbl

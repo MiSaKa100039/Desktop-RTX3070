@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=JP1 Old Footprint=4.2mm 8Pin 贴片焊盘 New Footprint=4.2mm 8Pin 公头 插件
+Add Component: Footprint Not Found 内嵌载流铜条 2x2x66.5mm
+Add Component: Footprint Not Found 内嵌载流铜条 2x2x66.5mm
+Add Component: Footprint Not Found 内嵌载流铜条 2x2x66.5mm
+Add Pin To Net: Unknown Pin: Pin JP1-1
+Add Pin To Net: Unknown Pin: Pin JP1-2
+Add Pin To Net: Unknown Pin: Pin JP1-3
+Add Pin To Net: Unknown Pin: Pin JP1-4
+Add Pin To Net: Unknown Pin: Pin JP1-5
+Add Pin To Net: Unknown Pin: Pin JP1-6
+Add Pin To Net: Unknown Pin: Pin JP1-7
+Add Pin To Net: Unknown Pin: Pin JP1-8
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-2
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 Header 4X2
+Add Class Member: Failed to add class member : Component R1 15K 1%
+Add Class Member: Failed to add class member : Component R2 15K 1%
+Add Class Member: Failed to add class member : Component R3 15K 1%

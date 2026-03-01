@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Power-second_Ver0.1.PrjPcb]
+   Generated File[Power-second_Ver0.1.TXT]
+   Generated File[Power-second_Ver0.1-RectHoles.TXT]
+   Generated File[Power-second_Ver0.1.DRL]
+   Generated File[Power-second_Ver0.1.LDP]
+   Generated File[Power-second_Ver0.1.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 15:43:58 On 2026/3/1
